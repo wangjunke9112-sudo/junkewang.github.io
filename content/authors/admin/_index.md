@@ -1,8 +1,8 @@
+---
 user_groups: ["Principal Investigators"]
 # This prevents the "Latest" posts from showing if the theme is configured 
 # to only show them for certain groups, but the most direct way is:
 listing_view: false
----
 
 # Display name
 title: Junke Wang
