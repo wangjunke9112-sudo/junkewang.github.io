@@ -2,13 +2,6 @@
 # Display name
 title: Junke Wang
 
-# Full Name (for SEO)
-first_name: Junke
-last_name: Wang
-
-# Is this the primary user of the site?
-superuser: true
-
 # Role/position
 role: Professor
 
@@ -44,16 +37,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+    link: 'mailto:junke.wang@physics.ox.ac.uk'
+  - icon: x-twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://x.com/jwangpv?lang=en
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.com/citations?user=2hYAer8AAAAJ&hl=en
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-5849-7297
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
