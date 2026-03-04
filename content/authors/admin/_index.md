@@ -23,6 +23,26 @@ interests:
   - Computational Linguistics
   - Information Retrieval
 
+# Work Experience (Postdoc roles)
+experience:
+  - title: Marie-Curie Fellow, Postdoc
+    company: University of Oxford
+    Supervisor: Henry J. Snaith
+    date_start: '2023'
+    date_end: '2026'
+
+  - title: Postdoc
+    company: Jointly between the University of Toronto and Eindhoven University of Technology
+    Supervisor: Edward H. Sargent and René A. J. Janssen
+    date_start: '2021'
+    date_end: '2023'
+
+# Education (Keep your previous list)
+education:
+  courses:
+    - course: PhD in Chemistry
+      institution: Eindhoven University of Technology
+      year: 2020
 education:
   courses:
     - course: PhD in Chemistry
