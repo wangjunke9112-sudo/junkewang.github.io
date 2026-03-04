@@ -20,15 +20,15 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Chemistry
+      institution: Eindhoven University of Technology
+      year: 2020
+    - course: MSc in Chemical Engineering
+      institution: Eindhoven University of Technology
+      year: 2016
+    - course: BEng in Materials Science and Engineering
+      institution: Central South University
       year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
