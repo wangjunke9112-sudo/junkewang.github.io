@@ -1,31 +1,20 @@
 ---
-title: "Team"
-description: "The Automation Photovoltaics Lab at South China University of Technology"
----
+widget: people
+headless: true
+active: true
+title: Team
+weight: 30
 
-# Principal Investigator
-
-{{< figure src="/images/junke-wang-headshot.jpg" alt="Junke Wang" class="img-fluid rounded" >}}
-
-## Prof. Junke Wang  
-Professor 
-Materials Science & Engineering
-South China University of Technology  
-
----
-
-# Team Members
-
-## Postdoctoral Researchers
-<!-- Add list of postdocs here -->
-
-## PhD Students
-<!-- Add list -->
-
-## Masters / Researchers
-<!-- Add list -->
-
-## Alumni
-<!-- Add list -->
-
+# Show groups in this order (must match user_groups values)
+content:
+  user_groups:
+    - Principal Investigator
+    - Postdoctoral Researchers
+    - PhD Students
+    - Masters Students
+    - Undergraduate Students
+    - Alumni
+design:
+  show_interests: false
+  show_role: true
 ---
